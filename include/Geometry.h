@@ -9,6 +9,8 @@
 #ifndef _GEOMETRY_H_
 #define _GEOMETRY_H_
 
+#include <map>
+
 // Note: Geometry.h is a bit of a misnomer, as this holds a bunch of
 // classes all used by the TagDetector class.
 
